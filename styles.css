@@ -46,6 +46,7 @@ header {
 body,
 header,
 main,
+footer,
 .backgroundImg {
     display: flex;
     flex-direction: column;
@@ -145,4 +146,9 @@ main {
         font-size: 1.1em;
     }
 
+}
+
+footer {
+    text-align: center;
+    gap: 14px;
 }
